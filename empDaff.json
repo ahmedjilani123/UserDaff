@@ -9,6 +9,11 @@
     "user":"Dev",
     "age":20,
     "gender":"Male"
+    },
+     {
+    "user":"joshi sir",
+    "age":26,
+    "gender":"Male"
     }
   ]
 }
